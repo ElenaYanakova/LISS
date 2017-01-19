@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F518F819-A059-4FBB-AE58-0A3DD8B82423}</ProjectGuid>
+    <ProjectGuid>{E0D7AD9F-141E-4FD6-9CFC-90522693CF77}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ThingSpeakExample</RootNamespace>
